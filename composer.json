@@ -1,0 +1,13 @@
+{
+    "name": "ml/contract-opcache-preload",
+    "description": "Contract for defining the PHP opcache preload file",
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ML\\Contracts\\": "src/"
+        }
+    }
+}
