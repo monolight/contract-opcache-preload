@@ -9,5 +9,10 @@
         "psr-4": {
             "ML\\Contracts\\": "src/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
     }
 }
