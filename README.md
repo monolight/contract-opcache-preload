@@ -1,2 +1,3 @@
 # contract-opcache-preload
-Contract for defining the PHP opcache preload file
+
+PHP interface contract for defining the PHP opcache preload file.
