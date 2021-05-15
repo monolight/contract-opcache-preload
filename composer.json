@@ -2,7 +2,7 @@
     "name": "ml/contract-opcache-preload",
     "description": "Contract for defining the PHP opcache preload file",
     "require": {
-        "php": ">=8.0"
+        "php": ">=7.4"
     },
     "license": "MIT",
     "autoload": {
